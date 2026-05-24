@@ -1,0 +1,227 @@
+{
+  "facts": [
+    "Satu hari di Venus lebih panjang dari satu tahun di Venus — Venus berotasi sangat lambat!",
+    "Bintang neutron dapat berotasi hingga 700 kali per detik.",
+    "Matahari menyumbang 99.86% total massa Tata Surya kita.",
+    "Cahaya dari Matahari membutuhkan 8 menit 20 detik untuk sampai ke Bumi.",
+    "Di luar angkasa tidak ada suara karena tidak ada medium untuk merambatkan gelombang.",
+    "Galaksi Andromeda akan bertabrakan dengan Bima Sakti dalam ~4.5 miliar tahun.",
+    "Jika Matahari seukuran pintu, Bumi hanya seukuran koin 25 sen.",
+    "Jupiter memiliki badai 'Bintik Merah Besar' yang berlangsung lebih dari 350 tahun.",
+    "Saturnus memiliki densitas lebih rendah dari air — bisa mengapung jika ada lautan yang cukup besar!",
+    "Setiap detik, Matahari mengubah 4 juta ton materi menjadi energi.",
+    "Ada lebih banyak bintang di alam semesta daripada butiran pasir di seluruh pantai di Bumi.",
+    "Ruang angkasa hanya berjarak sekitar 100 km dari permukaan Bumi (Garis Karman).",
+    "Jejak kaki astronot Apollo di Bulan bisa bertahan jutaan tahun karena tidak ada angin.",
+    "Lubang hitam di pusat Bima Sakti — Sagittarius A* — memiliki massa 4 juta kali massa Matahari.",
+    "Objek terbesar yang diketahui: UY Scuti, bintang dengan radius 1.700 kali radius Matahari.",
+    "Bintang neutron sepadat sendok gula bermassa 100 juta ton.",
+    "Suhu di inti Matahari mencapai 15 juta derajat Celsius.",
+    "Pluto lebih kecil dari Bulan Bumi — diameternya hanya 2.377 km.",
+    "Europa (bulan Jupiter) kemungkinan memiliki lautan air cair di bawah permukaannya.",
+    "James Webb Space Telescope mampu mendeteksi sinyal panas dari lebah di Bulan.",
+    "Kecepatan cahaya: 299.792.458 meter per detik — tercepat di alam semesta.",
+    "Black hole terbesar yang diketahui: TON 618, dengan massa 66 miliar kali massa Matahari.",
+    "Titik Voyager 1 berada di lebih dari 23 miliar km dari Bumi — objek buatan manusia terjauh.",
+    "Di Mars, satu hari (sol) = 24 jam 37 menit — hampir sama dengan Bumi!",
+    "Alam semesta berumur sekitar 13.8 miliar tahun berdasarkan pengukuran radiasi latar kosmik."
+  ],
+  "planets": [
+    {
+      "name": "Merkurius",
+      "emoji": "☿",
+      "distance": "57.9 juta km",
+      "diameter": "4,879 km",
+      "moons": 0,
+      "day": "59 hari Bumi",
+      "year": "88 hari Bumi",
+      "temp": "-180°C hingga 430°C",
+      "desc": "Planet terkecil dan tercepat mengorbit Matahari. Tidak memiliki atmosfer berarti sehingga suhu sangat ekstrem."
+    },
+    {
+      "name": "Venus",
+      "emoji": "♀",
+      "distance": "108.2 juta km",
+      "diameter": "12,104 km",
+      "moons": 0,
+      "day": "243 hari Bumi",
+      "year": "225 hari Bumi",
+      "temp": "465°C (rata-rata)",
+      "desc": "Planet terpanas di Tata Surya. Atmosfer CO₂ tebal menciptakan efek rumah kaca ekstrem. Berotasi terbalik!"
+    },
+    {
+      "name": "Bumi",
+      "emoji": "🌍",
+      "distance": "149.6 juta km",
+      "diameter": "12,742 km",
+      "moons": 1,
+      "day": "24 jam",
+      "year": "365.25 hari",
+      "temp": "-88°C hingga 58°C",
+      "desc": "Satu-satunya planet yang diketahui memiliki kehidupan. 71% permukaannya adalah air."
+    },
+    {
+      "name": "Mars",
+      "emoji": "♂",
+      "distance": "227.9 juta km",
+      "diameter": "6,779 km",
+      "moons": 2,
+      "day": "24 jam 37 menit",
+      "year": "687 hari Bumi",
+      "temp": "-125°C hingga 20°C",
+      "desc": "Planet Merah dengan gunung tertinggi di Tata Surya: Olympus Mons (22 km). Target kolonisasi manusia."
+    },
+    {
+      "name": "Jupiter",
+      "emoji": "♃",
+      "distance": "778.5 juta km",
+      "diameter": "139,820 km",
+      "moons": 95,
+      "day": "10 jam",
+      "year": "12 tahun Bumi",
+      "temp": "-110°C",
+      "desc": "Planet terbesar di Tata Surya. Badai Besar Merah telah berlangsung 350+ tahun. Memiliki 95 bulan."
+    },
+    {
+      "name": "Saturnus",
+      "emoji": "♄",
+      "distance": "1.43 miliar km",
+      "diameter": "116,460 km",
+      "moons": 146,
+      "day": "10.7 jam",
+      "year": "29 tahun Bumi",
+      "temp": "-140°C",
+      "desc": "Planet bercincin spektakuler. Densitasnya lebih rendah dari air. Memiliki 146 bulan yang diketahui."
+    },
+    {
+      "name": "Uranus",
+      "emoji": "⛢",
+      "distance": "2.87 miliar km",
+      "diameter": "50,724 km",
+      "moons": 27,
+      "day": "17 jam",
+      "year": "84 tahun Bumi",
+      "temp": "-224°C",
+      "desc": "Planet miring 98° — berotasi seperti menggelinding. Planet terdingin di Tata Surya."
+    },
+    {
+      "name": "Neptunus",
+      "emoji": "♆",
+      "distance": "4.49 miliar km",
+      "diameter": "49,244 km",
+      "moons": 16,
+      "day": "16 jam",
+      "year": "165 tahun Bumi",
+      "temp": "-200°C",
+      "desc": "Planet paling berangin dengan kecepatan angin 2.100 km/jam. Planet terjauh dari Matahari."
+    }
+  ],
+  "news": [
+    {
+      "category": "NASA / SPACE EXPLORATION",
+      "title": "Artemis Program: Humanity Returns to the Moon",
+      "desc": "NASA mempersiapkan misi Artemis III untuk mengirim astronot pertama ke kutub selatan Bulan, membuka era eksplorasi baru.",
+      "date": "2025",
+      "icon": "🚀"
+    },
+    {
+      "category": "ASTROPHYSICS",
+      "title": "James Webb Discovers Oldest Known Galaxy",
+      "desc": "JWST berhasil mengamati galaksi JADES-GS-z14-0, terbentuk hanya 290 juta tahun setelah Big Bang.",
+      "date": "2024",
+      "icon": "🔭"
+    },
+    {
+      "category": "SOLAR SYSTEM",
+      "title": "Europa Clipper Mission Launches",
+      "desc": "Misi mencari kehidupan di bulan Jupiter, Europa — diluncurkan Oktober 2024, tiba 2030.",
+      "date": "2024",
+      "icon": "🌊"
+    },
+    {
+      "category": "MARS EXPLORATION",
+      "title": "Perseverance Collects 23rd Rock Sample",
+      "desc": "Rover Mars terus mengumpulkan sampel batuan yang rencananya akan dibawa ke Bumi oleh misi Mars Sample Return.",
+      "date": "2025",
+      "icon": "🪨"
+    },
+    {
+      "category": "EXOPLANETS",
+      "title": "55 New Exoplanets Confirmed by Kepler Data",
+      "desc": "Analisis data Kepler mengonfirmasi 55 planet baru di zona habitable bintang-bintang jauh.",
+      "date": "2024",
+      "icon": "🌏"
+    },
+    {
+      "category": "BLACK HOLES",
+      "title": "Sagittarius A* Releases Largest Flare",
+      "desc": "Lubang hitam di pusat Bima Sakti mengeluarkan flare X-ray terbesar yang pernah terekam oleh teleskop Chandra.",
+      "date": "2024",
+      "icon": "⚫"
+    }
+  ],
+  "timeline": [
+    { "year": "1543", "event": "Copernicus — Model Heliosentris", "desc": "Copernicus menerbitkan teori bahwa Matahari adalah pusat Tata Surya." },
+    { "year": "1609", "event": "Galileo — Teleskop Pertama", "desc": "Galileo membangun teleskop dan mengamati 4 bulan Jupiter." },
+    { "year": "1687", "event": "Newton — Hukum Gravitasi Universal", "desc": "Newton merumuskan hukum gravitasi yang menjelaskan gerak semua benda langit." },
+    { "year": "1781", "event": "William Herschel — Menemukan Uranus", "desc": "Uranus menjadi planet pertama yang ditemukan dengan teleskop." },
+    { "year": "1845", "event": "Lord Rosse — Galaksi Spiral Pertama", "desc": "Teleskop Leviathan mengungkap struktur spiral galaksi Whirlpool." },
+    { "year": "1905", "event": "Einstein — Teori Relativitas Khusus", "desc": "E=mc² mengubah pemahaman kita tentang energi, massa, dan ruang-waktu." },
+    { "year": "1929", "event": "Hubble — Ekspansi Alam Semesta", "desc": "Edwin Hubble menemukan galaksi lain dan membuktikan alam semesta mengembang." },
+    { "year": "1957", "event": "Sputnik 1 — Satelit Pertama", "desc": "Uni Soviet meluncurkan Sputnik 1, memulai era luar angkasa." },
+    { "year": "1961", "event": "Yuri Gagarin — Manusia Pertama di Luar Angkasa", "desc": "Kosmonaut Soviet Yuri Gagarin menjadi manusia pertama yang mengorbit Bumi." },
+    { "year": "1969", "event": "Apollo 11 — Manusia di Bulan", "desc": "Neil Armstrong dan Buzz Aldrin menginjakkan kaki di Bulan untuk pertama kalinya." },
+    { "year": "1990", "event": "Hubble Space Telescope Diluncurkan", "desc": "Teleskop Hubble membuka era baru pengamatan alam semesta dari orbit." },
+    { "year": "2004", "event": "Mars Rovers Spirit & Opportunity", "desc": "Dua rover NASA mendarat di Mars dan mengeksplorasi permukaannya." },
+    { "year": "2012", "event": "Curiosity Rover Mendarat di Mars", "desc": "Curiosity membuktikan Mars pernah memiliki kondisi yang mendukung kehidupan." },
+    { "year": "2015", "event": "Deteksi Gelombang Gravitasi Pertama", "desc": "LIGO mendeteksi riak ruang-waktu dari penggabungan dua lubang hitam." },
+    { "year": "2019", "event": "Foto Lubang Hitam Pertama", "desc": "Event Horizon Telescope mengabadikan gambar lubang hitam M87 berdiameter 6.5 miliar massa Matahari." },
+    { "year": "2021", "event": "James Webb Space Telescope Diluncurkan", "desc": "JWST diluncurkan pada 25 Desember 2021 — teleskop terbesar dan tercanggih sepanjang sejarah." },
+    { "year": "2024", "event": "Europa Clipper — Mencari Kehidupan", "desc": "NASA meluncurkan misi ke bulan Jupiter untuk mencari tanda kehidupan di bawah es Europa." },
+    { "year": "2025", "event": "Artemis III — Kembali ke Bulan", "desc": "NASA berencana mengirim astronaut ke kutub selatan Bulan dalam program Artemis." }
+  ],
+  "articles": [
+    {
+      "icon": "⭐",
+      "category": "STELLAR PHYSICS",
+      "title": "Siklus Hidup Bintang: Dari Nebula hingga Lubang Hitam",
+      "desc": "Perjalanan sebuah bintang dimulai dari awan gas dan debu kosmik yang disebut nebula. Gravitasi menyebabkan materi mengumpul membentuk protobintang, lalu bintang deret utama, raksasa merah, dan akhirnya white dwarf, neutron star, atau black hole.",
+      "readTime": "8 menit"
+    },
+    {
+      "icon": "💥",
+      "category": "COSMOLOGY",
+      "title": "Big Bang: Awal Mula Alam Semesta",
+      "desc": "Sekitar 13.8 miliar tahun lalu, seluruh materi, energi, ruang, dan waktu berasal dari satu titik singularitas yang sangat panas dan padat. Dalam sepersekian detik, alam semesta mengembang secara dramatis.",
+      "readTime": "10 menit"
+    },
+    {
+      "icon": "🔭",
+      "category": "OBSERVATIONAL ASTRONOMY",
+      "title": "Cara Mengamati Langit Malam: Panduan Pemula",
+      "desc": "Mulai dengan mata telanjang di lokasi gelap, kenali rasi bintang utama seperti Orion dan Ursa Major. Gunakan aplikasi stellarium untuk membantu identifikasi. Tingkatkan dengan binokuler lalu teleskop.",
+      "readTime": "6 menit"
+    },
+    {
+      "icon": "🌌",
+      "category": "SPACE TECHNOLOGY",
+      "title": "Teleskop James Webb: Mata Baru Umat Manusia",
+      "desc": "JWST adalah teleskop luar angkasa terbesar yang pernah diluncurkan. Dengan cermin 6.5 meter dan kemampuan inframerah, ia bisa melihat galaksi pertama yang terbentuk setelah Big Bang.",
+      "readTime": "7 menit"
+    },
+    {
+      "icon": "🌑",
+      "category": "DARK MATTER",
+      "title": "Materi Gelap: Misteri Terbesar Alam Semesta",
+      "desc": "85% materi di alam semesta tidak bisa kita lihat. Materi gelap tidak memancarkan cahaya namun pengaruh gravitasinya terlihat dari pergerakan galaksi dan pembelokan cahaya (gravitational lensing).",
+      "readTime": "9 menit"
+    },
+    {
+      "icon": "🌱",
+      "category": "ASTROBIOLOGY",
+      "title": "Kehidupan di Luar Bumi: Apakah Kita Sendirian?",
+      "desc": "Dengan miliaran galaksi dan triliunan bintang, kemungkinan kehidupan di tempat lain sangat tinggi. Para ilmuwan mencari biosignatures seperti oksigen dan metana di atmosfer exoplanet.",
+      "readTime": "8 menit"
+    }
+  ]
+}
